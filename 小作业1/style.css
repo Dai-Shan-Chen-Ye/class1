@@ -1,0 +1,26 @@
+@important url('https://fonts.googleapis.com/css?family=Poppins:400.500.700');
+
+html，body{
+  font-family:'Poppons',sans-serif;
+  color: #222;
+}
+
+.carousel img{
+  width: 100%;
+  height: 100%;
+}
+
+.btn-primary{
+  background-color; #6648b1;
+  border: 1px solid #6648b1;
+}
+
+footer{
+  background-color: #3f3f3f;
+  color: #d5d5d5;
+  padding-top: 2rem;
+}
+.light{
+  border-top: 1px solid #d5d5d5;
+  width: 45%;
+}
